@@ -1,0 +1,20 @@
+=================================================
+Evaluation result for 'chemdner_cem_prediction_1'
+Evaluated documents:         29
+Evaluated results:          528
+
+Hits	TP: 226 FP: 302 FN: 334
+
+Macro-averaged results
+
+StdDev	precs.:	0.18317	recall:	0.21462	F-scr.:	0.17466
+
+Macro	precs.:	0.39447	recall:	0.41683
+Macro	F-scr.:	0.38878	Avrg P:	0.17810
+Macro	FAP-s.:	0.24429
+
+Micro-averaged results
+
+Micro	precs.:	0.42803	recall:	0.40357
+Micro	F-scr.:	0.41544	Avrg P:	0.18295
+Micro	FAP-s.:	0.25403
