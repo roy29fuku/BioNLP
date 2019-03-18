@@ -4,9 +4,9 @@
 ## Resources
 | Name | Data Type | Language | Code | Blog |
 ----|----|----|----|----
-| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) | en | paper in life science domain |  |  |
-| [PubChem](https://pubchem.ncbi.nlm.nih.gov/) | en | database of chemical compounds |  | [世の中の全ての化合物を取得する](http://blog.roy29fuku.com/natural-language-processing/paper-analysis/get-all-of-the-substances/) |
-| [NTICIR](http://research.nii.ac.jp/ntcir/index-ja.html) | en, ja | document in various domain (patent, news, academic, ...) |  |  |
+| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) | paper in life science domain | en |  |  |
+| [PubChem](https://pubchem.ncbi.nlm.nih.gov/) | database of chemical compounds | en |  | [世の中の全ての化合物を取得する](http://blog.roy29fuku.com/natural-language-processing/paper-analysis/get-all-of-the-substances/) |
+| [NTICIR](http://research.nii.ac.jp/ntcir/index-ja.html) | document in various domain (patent, news, academic, ...) | en, ja |  |  |
 
 
 ## Shared Task
