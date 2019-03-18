@@ -4,13 +4,14 @@
 ## Resources
 | Name | Data Type | Code | Blog |
 ----|----|----|----
-| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) | 生命科学論文 | - | - |
-| [PubChem](https://pubchem.ncbi.nlm.nih.gov/) | 化学分子データベース | - | [世の中の全ての化合物を取得する](http://blog.roy29fuku.com/natural-language-processing/paper-analysis/get-all-of-the-substances/) |
+| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) | paper in life science domain | - | - |
+| [PubChem](https://pubchem.ncbi.nlm.nih.gov/) | database of chemical compounds | - | [世の中の全ての化合物を取得する](http://blog.roy29fuku.com/natural-language-processing/paper-analysis/get-all-of-the-substances/) |
 
 ## Shared Task
 | Name | Task Type | Code | Blog |
 ----|----|----|----
-| [BioCreative IV CHEMDNER CEM](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-iv/chemdner/) | 論文内の化学物質・薬剤名 Named Entity Recognition | - | [BioCreative IVまとめ](http://blog.roy29fuku.com/natural-language-processing/biocreative-iv/#Track_2-_CHEMDNER_Task_Chemical_compound_and_drug_name_recognition_task) |
+| [BioCreative IV CHEMDNER CEM](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-iv/chemdner/) | Named Entity Recognition of chemical compounds and drugs | - | [BioCreative IVまとめ](http://blog.roy29fuku.com/natural-language-processing/biocreative-iv/#Track_2-_CHEMDNER_Task_Chemical_compound_and_drug_name_recognition_task) |
+| [ACL-BioNLP'19 MEDIQA 2019](https://sites.google.com/view/mediqa2019) | Question Answering in medical domain |  |  |
 
 ## Tools
 | Name | Task Type | Code | Blog |
