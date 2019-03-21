@@ -4,7 +4,8 @@
 ## Resources
 | Name | Data Type | Language | Code | Blog |
 ----|----|----|----|----
-| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) | papers in life science domain | en |  |  |
+| [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) | full-text of biomedical and lifescience papers | en |  |  |
+| [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) | citations for biomedical literature | en |  |  |
 | [PubChem](https://pubchem.ncbi.nlm.nih.gov/) | database of chemical substances | en |  | [世の中の全ての化合物を取得する](http://blog.roy29fuku.com/natural-language-processing/paper-analysis/get-all-of-the-substances/) |
 | [Chemical Entities of Biological Interest (ChEBI)](https://www.ebi.ac.uk/chebi/) |  |  |  |  |
 | [DrugBank](https://www.drugbank.ca/) |  |  |  |  |
