@@ -25,6 +25,8 @@
 | [SemEval-2013 DDIExtraction](https://www.cs.york.ac.uk/semeval-2013/task9/) |  |  |  |  |
 | [NTCIR-12 MedNLPDoc](https://sites.google.com/site/mednlpdoc/) |  |  |  |  |
 | [NTCIR-13 MedWeb](http://mednlp.jp/medweb/NTCIR-13/) |  |  |  |  |
+| [CLEF eHealth 2019](http://clef-ehealth.org/) | <ul><li>Task 1. Multilingual Information Extraction</li><li>Task 2. Technologically Assisted Reviews in Empirical Medicine</li><li>Task 3. Consumer Health Search</li></ul> |  |  |  |
+
 
 
 
