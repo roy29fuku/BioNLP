@@ -39,7 +39,7 @@
 | [ChemDataExtractor](http://chemdataextractor.org/) | Molecular Engineering Group Cavendish Laboratory University of Cambridge |  |  |  |  |
 | [PubAnnotation](http://pubannotation.org/) | Database Center for Life Science | A scalable and shareable repository of text annotation |  | en, ja |  |
 | [PubCaseFinder](https://pubcasefinder.dbcls.jp/) | Database Center for Life Science | Case-report-based phenotype-driven differential-diagnosis system for rare diseases |  | en, ja |  |  |
-| [PubTator]() | National Center for Biotechnology Information | Web-based tool for accelerating manual literature curation |  |  |  |
+| [PubTator](https://www.ncbi.nlm.nih.gov/CBBresearch/Lu/Demo/PubTator/)/[NCBI Text Mining Tools](https://www.ncbi.nlm.nih.gov/research/bionlp/tools/) | National Center for Biotechnology Information | Web-based tool for accelerating manual literature curation |  |  |  |
 | [Orphadata](http://www.orphadata.org/cgi-bin/index.php) | Institut national de la santé et de la recherche médicale | comprehensive, quality data sets related to rare diseases and orphan drugs |  | en |  |  |
 
 
