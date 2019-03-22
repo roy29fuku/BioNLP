@@ -2,8 +2,9 @@
 
 
 ## Resources
-| Name | Data Type | Language | Code | Blog |
+| Name | Descriptopn | Language | Code | Blog |
 ----|----|----|----|----
+| [NCBI Text Mining Collections](https://www.ncbi.nlm.nih.gov/pmc/tools/textmining/) | articles in PMC | en |  |  |
 | [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) | full-text of biomedical and lifescience papers | en |  |  |
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) | citations for biomedical literature | en |  |  |
 | [PubChem](https://pubchem.ncbi.nlm.nih.gov/) | database of chemical substances | en |  | [世の中の全ての化合物を取得する](http://blog.roy29fuku.com/natural-language-processing/paper-analysis/get-all-of-the-substances/) |
