@@ -32,7 +32,7 @@
 
 ## Tools
 | Name | Organization | Description | Task Type | Language | Code | Blog |
-----|----|----|----|----|----
+----|----|----|----|----|----|----
 | [Amazon Comprehend Medical](https://aws.amazon.com/jp/comprehend/) | Amazon | A service that detects useful information in unstructured clinical text | Named Entity Recognition, Relation Extraction | en | [amazon_comprehend_medical](https://github.com/roy29fuku/BioNLP/tree/master/amazon_comprehend_medical) | [Amazon Comprehend Medicalを使ってみた](http://blog.roy29fuku.com/natural-language-processing/amazon-comprehend-medical-trial/) |
 | [ChemSpot](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/resources/chemspot) | Humboldt-Universität zu Berlin |  |  |  |  |
 | [ChemicalTagger](http://chemicaltagger.ch.cam.ac.uk/) | University of Cambridge |  |  |  |  |
