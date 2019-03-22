@@ -31,12 +31,16 @@
 
 
 ## Tools
-| Name | Task Type | Language | Code | Blog |
-----|----|----|----|----
-| [Amazon Comprehend Medical](https://aws.amazon.com/jp/comprehend/) | Named Entity Recognition, Relation Extraction in medical domain | en | [amazon_comprehend_medical](https://github.com/roy29fuku/BioNLP/tree/master/amazon_comprehend_medical) | [Amazon Comprehend Medicalを使ってみた](http://blog.roy29fuku.com/natural-language-processing/amazon-comprehend-medical-trial/) |
+| Name | Description | Task Type | Language | Code | Blog |
+----|----|----|----|----|----
+| [Amazon Comprehend Medical](https://aws.amazon.com/jp/comprehend/) | A service that detects useful information in unstructured clinical text | Named Entity Recognition, Relation Extraction | en | [amazon_comprehend_medical](https://github.com/roy29fuku/BioNLP/tree/master/amazon_comprehend_medical) | [Amazon Comprehend Medicalを使ってみた](http://blog.roy29fuku.com/natural-language-processing/amazon-comprehend-medical-trial/) |
 | [ChemSpot](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/resources/chemspot) |  |  |  |  |
-| [ChemicalTagger](http://chemicaltagger.ch.cam.ac.uk/) |  |  |  |  |
-| [ChemDataExtractor](http://chemdataextractor.org/) |  |  |  |  |
+| [ChemicalTagger](http://chemicaltagger.ch.cam.ac.uk/) |  |  |  |  |  |
+| [ChemDataExtractor](http://chemdataextractor.org/) |  |  |  |  |  |
+| [PubAnnotation](http://pubannotation.org/) | A scalable and shareable repository of text annotation |  | en, ja |  |  |
+| [PubCaseFinder](https://pubcasefinder.dbcls.jp/) | Case-report-based phenotype-driven differential-diagnosis system for rare diseases |  | en, ja |  |  |
+| [PubTator]() |  |  |  |  |  |
+| [Orphadata](http://www.orphadata.org/cgi-bin/index.php) | comprehensive, quality data sets related to rare diseases and orphan drugs | en |  |  |  |
 
 
 
