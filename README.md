@@ -6,6 +6,7 @@
 ----|----|----|----|----
 | [NCBI Text Mining Collections](https://www.ncbi.nlm.nih.gov/pmc/tools/textmining/) | articles in PMC | en |  |  |
 | [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/) | full-text of biomedical and lifescience papers | en |  |  |
+| [Europe PMC](https://europepmc.org/) | providing access to worldwide life sciences articles, books, patents and clinical guidelines | en |  |  |
 | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) | citations for biomedical literature | en |  |  |
 | [PubChem](https://pubchem.ncbi.nlm.nih.gov/) | database of chemical substances | en |  | [世の中の全ての化合物を取得する](http://blog.roy29fuku.com/natural-language-processing/paper-analysis/get-all-of-the-substances/) |
 | [Chemical Entities of Biological Interest (ChEBI)](https://www.ebi.ac.uk/chebi/) |  |  |  |  |
@@ -14,6 +15,7 @@
 | [Genia Corpus](http://www.geniaproject.org/genia-corpus) |  |  |  |  |
 | [森羅プロジェクト](https://aip.riken.jp/labs/goalorient_tech/lang_inf_access_tech/森羅：wikipedia構造化プロジェクト2018/) |  | ja |  |  |
 | [Kyoto Encyclopedia of Genes and Genomes (KEGG)](https://www.genome.jp/kegg/kegg_ja.html) |  |  |  |  |
+
 
 
 
