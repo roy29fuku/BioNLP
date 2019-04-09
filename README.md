@@ -15,7 +15,7 @@
 | [Genia Corpus](http://www.geniaproject.org/genia-corpus) |  |  |  |  |
 | [森羅プロジェクト](https://aip.riken.jp/labs/goalorient_tech/lang_inf_access_tech/森羅：wikipedia構造化プロジェクト2018/) |  | ja |  |  |
 | [Kyoto Encyclopedia of Genes and Genomes (KEGG)](https://www.genome.jp/kegg/kegg_ja.html) |  |  |  |  |
-
+| [BioInfer](http://mars.cs.utu.fi/BioInfer/) | a manually annotated corpus and related resources for information extraction in the biomedical domain | en |  |  |
 
 
 
