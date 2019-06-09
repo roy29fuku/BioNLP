@@ -17,7 +17,7 @@
 | [Kyoto Encyclopedia of Genes and Genomes (KEGG)](https://www.genome.jp/kegg/kegg_ja.html) |  |  |  |  |
 | [BioInfer](http://mars.cs.utu.fi/BioInfer/) | a manually annotated corpus and related resources for information extraction in the biomedical domain | en |  |  |
 | [ToxCast](https://www.epa.gov/chemical-research/exploring-toxcast-data-downloadable-data) |  | en |  |  |
-
+[jPOST(Japan ProteOme STandard Repository/Database)](https://jpostdb.org/)
 
 
 ## Shared Task
