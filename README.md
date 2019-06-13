@@ -19,6 +19,9 @@
 | [ToxCast](https://www.epa.gov/chemical-research/exploring-toxcast-data-downloadable-data) |  | en |  |  |
 [jPOST(Japan ProteOme STandard Repository/Database)](https://jpostdb.org/)
 
+[WikiPathways](https://www.wikipathways.org/index.php/WikiPathways): WikiPathways is a database of biological pathways maintained by and for the scientific community.
+
+
 
 ## Shared Task
 | Name | Task Type | Language | Code | Blog |
